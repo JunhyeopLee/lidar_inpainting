@@ -16,16 +16,25 @@ And mask bin files has only one channel, which is zero or one.
 
 ```bash
 ├── dataset
-    ├── train
-    │   ├── *.bin
-    ├── gt
-    │   ├── *.bin
-    └── mask
-        └── *.bin
+    ├── training
+    │   ├── train
+    │   │   ├── *.bin
+    │   ├── gt
+    │   │   ├── *.bin
+    │   └── mask
+    │       └── *.bin
+    └── testing
+        ├── train
+        │   ├── *.bin
+        ├── gt
+        │   ├── *.bin
+        └── mask
+            └── *.bin
 ```
 
 
 ## How to read LiDAR Inpainting dataset
+Please loacate this file into the dataset folder to execute viewer example file with below command.
 ```
 python dataloader_example.py
 ```
