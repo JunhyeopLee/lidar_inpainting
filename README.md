@@ -47,3 +47,13 @@ For more information about this dataset, please send an email to us.
 -- mvp.research.yonsei@gmail.com
 
 
+## Citation
+
+@article{lee2021sam,
+  title={SAM-Net: LiDAR Depth Inpainting for 3D Static Map Generation},
+  author={Lee, Junhyeop and Hwang, Sangwon and Kim, Woo Jin and Lee, Sangyoun},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2021},
+  publisher={IEEE}
+}
+
