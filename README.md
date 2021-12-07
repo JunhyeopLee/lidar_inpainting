@@ -40,13 +40,6 @@ python dataloader_example.py
 ```
 
 
-## Info
-Our paper will be published soon with the detailed information on this dataset.
-
-For more information about this dataset, please send an email to us.
--- mvp.research.yonsei@gmail.com
-
-
 ## Citation
 If you find our work useful in your research, please consider citing:
 
