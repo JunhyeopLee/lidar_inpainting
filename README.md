@@ -5,7 +5,7 @@ This dataset is published under the <a href="https://creativecommons.org/license
 
 ## Download Link
 You can download our dataset through below **link**.
-https://drive.google.com/file/d/1ll5WiriTP6izHhhS0J5O1QR4MbuLP4nz/view?usp=sharing
+https://www.dropbox.com/scl/fi/u9n2n1cv62m7almq2w8pe/lidarinpaint.zip?rlkey=sqz2iqwv9tvae62bl4zah0bvg&dl=0
 
 
 ## Dataset Folder Structure
